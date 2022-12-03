@@ -35,10 +35,7 @@ Proceed to review your user to add your AD user to the newly created AD group. I
 <br/>
 - Verify that the group was created successfully by refreshing the portal.
 <br/>
-<img src="https://i.imgur.com/VKrenxd.jpg" height="80%" width="80%" alt="1.1"/>
-<br />
-<br />
-<img src="https://i.imgur.com/oLnAC1c.jpg" height="80%" width="80%" alt="1.2"/>
+<img src="https://i.imgur.com/Iz25Oqe.jpg" height="80%" width="80%" alt="1.1"/>
 <br />
 <br />
 
@@ -51,13 +48,12 @@ Proceed to review your user to add your AD user to the newly created AD group. I
 <br />
 - Verify that your AAD user is now a member of the new group by refreshing the portal.
 <br/>
-<img src="https://i.imgur.com/eoUuhUO.jpg" height="80%" width="80%" alt="2.1"/>
+<img src="https://i.imgur.com/gpRMdkh.jpg" height="80%" width="80%" alt="2.1"/>
 <br />
 <br />
-<img src="https://i.imgur.com/Bbczuyr.jpg" height="80%" width="80%" alt="2.2"/>
+<img src="https://i.imgur.com/1CytdGM.jpg" height="80%" width="80%" alt="2.1"/>
 <br />
 <br />
-
 </p>
 
 <!--
