@@ -5,12 +5,12 @@
  --!>
 
 <h2>Description</h2>
-In the scenario for this project, your company is expanding. They have added a new Research and Development (R&D) department to invest in future capabilities, allowing them to make more strategic decisions. They have asked you to create the Azure Active Directory (AAD) group and add yourself to it. You will need to log in to the Azure portal, navigate to the Azure Active Directory (AAD) service, and perform the necessary steps to create the group and add your lab user as a member of the group.
+In the scenario for this lab, your company is expanding. They have added a new Research and Development (R&D) department to invest in future capabilities, allowing them to make more strategic decisions. They have asked you to create the Azure Active Directory (AAD) group and add yourself to it. You will need to log in to the Azure portal, navigate to the Azure Active Directory (AAD) service, and perform the necessary steps to create the group and add your lab user as a member of the group.
 <br />
 <br />
 Perform the necessary steps to add a new group named Research & Development. Make the group type a Security Group.
 <br />
-Proceed to review your user to add your AD user to the newly created AD group. If necessary be sure to review the name of your user before adding the user as a member of the Research & Development group. You will have completed this project when you verify that your AD user exists within the Research & Development group.
+Proceed to review your user to add your AD user to the newly created AD group. If necessary be sure to review the name of your user before adding the user as a member of the Research & Development group. You will have completed this lab when you verify that your AD user exists within the Research & Development group.
 <br />
 
 <h2>Languages and/or Utilities Used</h2>
